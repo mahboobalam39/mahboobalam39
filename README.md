@@ -8,7 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mahboobalam39](https://github.com/mahboobalam39)
 
 - 📫 How to reach me **mahboobalam39@gmail.com**
-- Mobile - 7004516481
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tevmc-lEx_TiJqCsQvOdI7a3Ib2D66eV/view?usp=sharing](https://drive.google.com/file/d/1tevmc-lEx_TiJqCsQvOdI7a3Ib2D66eV/view?usp=sharing)
 
