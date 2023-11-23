@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahboob Alam</h1>
-<h3 align="center">A passionate data driven Mechanical Engineer from India</h3>
+<h3 align="center">A passionate data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahboobalam39&label=Profile%20views&color=0e75b6&style=flat" alt="mahboobalam39" /> </p>
 
@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mahboobalam39](https://github.com/mahboobalam39)
 
 - 📫 How to reach me **mahboobalam39@gmail.com**
+- Mobile - 7004516481
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tevmc-lEx_TiJqCsQvOdI7a3Ib2D66eV/view?usp=sharing](https://drive.google.com/file/d/1tevmc-lEx_TiJqCsQvOdI7a3Ib2D66eV/view?usp=sharing)
 
