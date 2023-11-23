@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="path-to-machine-learning-icon" alt="machine learning" width="40" height="40"/>
-  <img src="path-to-power-bi-icon" alt="power bi" width="40" height="40"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fitrak365.com%2Fwp-content%2Fuploads%2Fpower-bi-icon-7.png&tbnid=jV_KSxMpEmxHUM&vet=12ahUKEwjCsIH6w9qCAxXipekKHVDKAN8QMygFegQIARB4..i&imgrefurl=https%3A%2F%2Fitrak365.com%2Fsupport%2Fpower-bi-icon-7%2F&docid=h1gVdxqOeL7xHM&w=5625&h=1492&q=power%20bi%20icon&ved=2ahUKEwjCsIH6w9qCAxXipekKHVDKAN8QMygFegQIARB4" alt="power bi" width="40" height="40"/>
   <img src="path-to-advanced-excel-icon" alt="advanced excel" width="40" height="40"/>
 </a> </p>
 
